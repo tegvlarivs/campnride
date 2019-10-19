@@ -1960,7 +1960,7 @@ input, select, textarea {
 			position: relative;
 		}
 
-			header.major h1:after, header.major h2:after, header.major h3:after, header.major h4:after, header.major h5:after, header.major h6:after {
+/* 			header.major h1:after, header.major h2:after, header.major h3:after, header.major h4:after, header.major h5:after, header.major h6:after {
 				background: #dddddd;
 				content: '';
 				display: block;
@@ -1973,6 +1973,7 @@ input, select, textarea {
 		header.major p {
 			margin-top: 0;
 		}
+*/
 
 /* Form */
 
